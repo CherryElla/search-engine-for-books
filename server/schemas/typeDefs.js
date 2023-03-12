@@ -1,7 +1,6 @@
-const { gql } = require("apollo-server-express");
 
 // Create the typeDefs 
-const typeDefs = gql`
+const typeDefs = `#graphql
     type User {
         _id: ID
         username: String
@@ -36,8 +35,8 @@ const typeDefs = gql`
             title: String, 
             bookId: ID, 
             image: String, 
-            link: String)
-            removeBook(bookID: ID!): User
+            link: String): User
+        removeBook(bookID: ID!): User
     }
 `;
 
