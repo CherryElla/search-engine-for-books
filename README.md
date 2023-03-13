@@ -23,15 +23,7 @@ Once you have your code editor up and running you can follow the steps below to 
 
 `$ git clone https://github.com/CherryElla/search-engine-for-books.git`
 
-2 - First `cd` into the client folder in your integrated terminal and install Apollo Client using the following command:
-
-`$ npm install @apollo/client`
-
-3 - Next `cd` into the server folder in your integrated terminal and install Apollo Server using the following command:
-
-`npm install @apollo/server`
-
-4 -  Finally `cd` into root and install the full dependency list using the following command:
+2 - `cd` into root and install the full dependency list using the following command:
 
 `$ npm install`
 
