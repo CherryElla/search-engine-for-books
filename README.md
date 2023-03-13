@@ -1,6 +1,9 @@
 ## SEARCH ENGINE FOR BOOKS 
 Welcome to my search utility, just fo books! Built with React and Apollo, using GraphQL API!
 
+![Screenshot 2023-03-12 at 10 38 09 PM](https://user-images.githubusercontent.com/111384784/224595825-be8df5a3-10bd-4d2f-b0cd-04a7909bf501.png)
+
+
 ## Getting Started
 Please follow these instructions to get your copy of the project and get it running on your local machine so you can view or debug before use.
 
