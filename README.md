@@ -27,6 +27,8 @@ Once you have your code editor up and running you can follow the steps below to 
 
 `$ npm install`
 
+3 - You will then need to do the same in the server and client folders. 
+
 ### Running
 Now that you have your environment set up, use the following command to start the server:
 
