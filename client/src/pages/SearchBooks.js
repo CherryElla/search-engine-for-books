@@ -69,7 +69,7 @@ function SearchBooks () {
         }
 
         try {
-            const res = await saveBook({ variables: { ...bookToSave } });
+            const res = await saveBook({ variables: {book: { ...bookToSave } }});
             if (!res) {
                 throw new Error("No data found!");
             }
